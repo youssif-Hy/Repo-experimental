@@ -13,6 +13,8 @@ namespace Repo_experimental
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Press any key to exit...");
             Console.WriteLine("Hello World");
+            Console.WriteLine("Mohammed Osama");
+            Console.WriteLine("This is a test for the repository.");
 
             Console.ReadKey();
         }
