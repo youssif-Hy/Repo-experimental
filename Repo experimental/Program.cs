@@ -12,6 +12,8 @@ namespace Repo_experimental
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("Hello World");
+
             Console.ReadKey();
         }
     }
